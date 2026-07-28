@@ -15,7 +15,7 @@ The script performs response-side hierarchical clustering of the Tecator meat sp
 
 A least-squares regression plane is superimposed on both panels of Figure 6:
 
-\[ \text{moisture}=\beta_0+\beta_1\text{fat}+\beta_2\text{protein}+\varepsilon.\]
+$ \text{moisture}=\beta_0+\beta_1\text{fat}+\beta_2\text{protein}+\varepsilon. $
 
 Figure 6 is generated with `plotly` using the same workflow as the original analysis code:
 
