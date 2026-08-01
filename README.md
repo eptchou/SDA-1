@@ -1,4 +1,4 @@
-# SDA-1
+# SDA
 
 Code and data to reproduce the figures in the paper:
 
