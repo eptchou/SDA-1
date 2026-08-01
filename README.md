@@ -20,7 +20,6 @@ All figures are produced by a single, sectioned R script: `reproduce_figures.R`.
 SDA-1/
 ├── reproduce_figures.R   # main script; one section per figure
 ├── data/                 # input data sets (CSV)
-├── output/               # cached intermediate results (auto-generated)
 ├── README.md
 └── LICENSE
 ```
