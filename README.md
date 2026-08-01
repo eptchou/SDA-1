@@ -1,7 +1,6 @@
-# SDA-1
+# Scientific data analysis on hyperspectral functional data: categorical exploratory data analysis (CEDA) coupled with Kolmogorov's randomness-proper
 
-Code and data to reproduce the figures in the *Sparse Dependence Analysis* (SDA)
-manuscript. The analysis is applied to two spectral data sets:
+Code and data to reproduce the figures in the manuscript. The analysis is applied to two spectral data sets:
 
 - **Tecator fat spectra** (fat / protein / moisture), loaded from the
   `fds` / `fsemipar` packages.
